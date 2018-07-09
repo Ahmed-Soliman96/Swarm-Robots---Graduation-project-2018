@@ -20,3 +20,5 @@ RowBot III is a custom made robot from scratch including the frame, PCB design a
 3. Kernels:
 	* Arduino Kernel: contains functions to control and communicate among robots and camera, using Arduino.
 	* RTOS Kernel: contains functions to control and communicate among robots and camera, implemented on an RTOS.
+
+## The project's documentation can be found [here](https://bitbucket.org/A_Soli/our-thesis/src/master/)
